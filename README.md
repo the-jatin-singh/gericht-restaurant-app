@@ -18,4 +18,5 @@ After executing the above command, you should see a message similar to the follo
 sql
 Copy code
 You can now view client in the browser at http://localhost:3000
+
 By following these steps, you will be able to access and view the Restaurant-App in your browser on your local machine.
