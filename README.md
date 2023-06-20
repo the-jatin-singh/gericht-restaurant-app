@@ -2,7 +2,7 @@
 
 Note: Before proceeding, ensure that you have Node.js installed on your local machine. If not, please download and install it from Node.js website
 
-Follow the steps below to set up and run the Restaurant-App:
+# Follow the steps below to set up and run the Restaurant-App:
 
 Clone the repository "the-jatin-singh/gericht-restaurant-app" to your local machine.
 
