@@ -17,13 +17,5 @@ npm start
 After executing the above command, you should see a message similar to the following:
 sql
 Copy code
-You can now view client in the browser.
-```
-Local:http://localhost:3000
-```
-webpack compiled successfully
-Finally, open your web browser and enter the following URL:
-arduino
-Copy code
-http://localhost:3000
+You can now view client in the browser at http://localhost:3000
 By following these steps, you will be able to access and view the Restaurant-App in your browser on your local machine.
