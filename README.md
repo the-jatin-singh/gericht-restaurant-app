@@ -18,7 +18,9 @@ After executing the above command, you should see a message similar to the follo
 sql
 Copy code
 You can now view client in the browser.
-Local:            http://localhost:3000 
+```
+Local:http://localhost:3000
+```
 webpack compiled successfully
 Finally, open your web browser and enter the following URL:
 arduino
